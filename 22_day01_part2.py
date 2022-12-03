@@ -27,8 +27,6 @@ if counter>0:
 
 bigVal = max(elfCalories)
 elfCalories.sort()
-#print(elfCalories) 
-#print(str(bigVal)+" value")
 limit = len(elfCalories)
 total = elfCalories[limit-1]+elfCalories[limit-2]+elfCalories[limit-3]
 print (total)
