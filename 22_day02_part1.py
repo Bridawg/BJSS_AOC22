@@ -59,12 +59,6 @@ for x in myValues:
                 case 'Z':
                     score = score+3
                     score = score+3
-    #if x == '':
-    #    elfCalories.append(counter)
-    #    counter=0
-    #else:
-    #    counter=counter+int(x)
-
 
         
 print(str(score)+" value")

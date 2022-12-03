@@ -62,13 +62,6 @@ for x in myValues:
                     score = score+6
                     score = score+rock
     print(score)
-    #if x == '':
-    #    elfCalories.append(counter)
-    #    counter=0
-    #else:
-    #    counter=counter+int(x)
-
-
         
 print(str(score)+" value")
 #13645 too high
